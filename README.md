@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning python full stack (Django)
 
-- 📫 How to reach me at <a href="mailto:milanfrom2001@gmail.com">milanfrom2001@gmail.com</a>
+- 📫 You can contact me at <a href="mailto:milanfrom2001@gmail.com">milanfrom2001@gmail.com</a>
 
 - 🤝  I'm open to collaborating on open-source or personal projects
 
