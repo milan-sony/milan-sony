@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 My name is Milan.</h1>
-<h3 align="center">I'm an aspiring programmer currently on a self-taught journey to become a Python developer.</h3>
+<h1 align="center">Hi there 👋 My name is Milan</h1>
+<h3 align="center">I'm an aspiring programmer currently on a self-taught journey to become a Python developer</h3>
 
 - 🌱 I’m currently learning **Python full stack(Django)**
 
