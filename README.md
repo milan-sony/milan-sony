@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **milanfrom2001@gmail.com**
 
+- 🤝  I'm open to collaborating on open-source or personal projects
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_" height="30" width="40" /></a>
