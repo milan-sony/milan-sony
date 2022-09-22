@@ -7,7 +7,7 @@
 
 - 📫 You can contact me at <a href="mailto:milanfrom2001@gmail.com">milanfrom2001@gmail.com</a>
 
-- 🤝  I'm open to collaborating on open-source or personal projects
+- 🤝  I'm open to collaborate on open-source or personal projects
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
