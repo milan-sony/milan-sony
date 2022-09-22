@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 My name is Milan</h1>
+<h1 align="center">Hi there 👋 My name is Milan Sony</h1>
 <h3 align="center">I'm an aspiring programmer, currently on a self-taught journey to become a python developer :)</h3>
 
 - 🌍  I'm based in India
