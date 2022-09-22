@@ -3,7 +3,7 @@
 
 - 🌍  I'm based in India
 
-- 🌱 Currently learning python full stack-Django
+- 🌱 Currently learning python full stack (Django)
 
 - 📫 You can contact me at <a href="mailto:milanfrom2001@gmail.com">milanfrom2001@gmail.com</a>
 
