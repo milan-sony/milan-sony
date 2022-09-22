@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 My name is Milan</h1>
 <h3 align="center">I'm an aspiring programmer, currently on a self-taught journey to become a python developer</h3>
 
-- 🌍  I'm based in Canada!
+- 🌍  I'm based in India
 
 - 🌱 Currently learning **Python full stack(Django)**
 
