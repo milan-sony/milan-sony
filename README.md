@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://fb.com/milansonyms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milansonyms" height="28" width="28" /></a>
-<a href="https://instagram.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milansony_" height="28" width="28" /></a>
-<a href="https://twitter.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_" height="28" width="28" /></a>
+<a href="https://fb.com/milansonyms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milansonyms" height="25" width="25" /></a>
+<a href="https://instagram.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milansony_" height="25" width="25" /></a>
+<a href="https://twitter.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
