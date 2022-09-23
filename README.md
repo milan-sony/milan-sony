@@ -9,14 +9,14 @@
 
 - 🤝  I'm open to collaborate on open-source or personal projects
 
-<h5 align="left">Connect with me</h5>
+<h4 align="left">Connect with me</h4>
 <p align="left">
 <a href="https://fb.com/milansonyms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milansonyms" height="25" width="25" /></a>&nbsp &nbsp
 <a href="https://instagram.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milansony_" height="25" width="25" /></a>&nbsp &nbsp
 <a href="https://twitter.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_" height="25" width="25" /></a>
 </p>
 
-<h5 align="left">Languages and Tools</h5>
+<h4 align="left">Languages and Tools</h4>
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28"/> </a>&nbsp
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a>&nbsp 
