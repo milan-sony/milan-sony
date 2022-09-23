@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi"> My name is Milan Sony</h1>
+<h1 align="center">Hi there 👋 My name is Milan Sony</h1>
 <h3 align="center">I'm an aspiring programmer, currently on a self-taught journey to become a python developer 😄</h3>
 
 - 🌍  I'm based in India
