@@ -1,9 +1,10 @@
 <h1 align="center">Hi there👋 My name is Milan Sony</h1>
-<h3 align="center">I'm an aspiring programmer, currently on a self-taught journey to become a python developer 😄</h3>
 
 - 🌍  I'm based in India
 
-- 🌱 Currently learning python full stack (Django)
+- 🌱  Currently on a self-taught journey to become a python developer 
+
+- 👨🏽‍🎓  Pursuing Masters of Computer Applications <a href = "https://www.cgc.edu.in/blog/master-of-computer-application-eligibility-syllabus-and-future-scope#:~:text=MCA%2C%20which%20expands%20to%20Master,you%20to%20a%20better%20future.">(MCA)</a>
 
 - 📫 You can contact me at <a href="mailto:milanfrom2001@gmail.com">milanfrom2001@gmail.com</a>
 
