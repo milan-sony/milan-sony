@@ -1,14 +1,14 @@
 <h1 align="center">Hi there👋 My name is Milan Sony</h1>
 
-- 🌍  I'm based in India
+- 🌏  I'm based in India
 
 - 🌱  Currently on a self taught journey to become a python developer 
 
 - 👨🏽‍🎓  Pursuing Master of Computer Applications <a href = "https://www.cgc.edu.in/blog/master-of-computer-application-eligibility-syllabus-and-future-scope#:~:text=MCA%2C%20which%20expands%20to%20Master,you%20to%20a%20better%20future.">(MCA)</a>
 
-- 📫 You can contact me at <a href="mailto:milanfrom2001@gmail.com">milanfrom2001@gmail.com</a>
+- 📫  You can contact me at <a href="mailto:milanfrom2001@gmail.com">milanfrom2001@gmail.com</a>
 
-- 🤝  I'm open to collaborate on open-source or personal projects
+- ⚡  Fun fact: I believe in UFO 🛸👽 
 
 <h4 align="left">Connect with me</h4>
 <p align="left">
