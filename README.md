@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=milan-sony&label=Profile%20views&color=0e75b6&style=flat" alt="milan-sony" /> </p>
+
 <h1 align="center">Hi there👋 My name is Milan Sony</h1>
 
 - 🌏  I'm based in India
@@ -12,9 +14,10 @@
 
 <h4 align="left">Connect with me</h4>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/milan-sony-94b977261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milan-sony-94b977261" height="25" width="25" /></a>&nbsp &nbsp
+<a href="https://twitter.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_" height="25" width="25" /></a>&nbsp &nbsp
 <a href="https://fb.com/milansonyms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milansonyms" height="25" width="25" /></a>&nbsp &nbsp
 <a href="https://instagram.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milansony_" height="25" width="25" /></a>&nbsp &nbsp
-<a href="https://twitter.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_" height="25" width="25" /></a>
 </p>
 
 <h4 align="left">Languages and Tools</h4>
@@ -32,4 +35,4 @@
 </p>
 
 <h4 align="left">Another day, Another coffee</h4>
-<a href="https://www.buymeacoffee.com/milansony" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p><a href="https://www.buymeacoffee.com/milansony"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milansony" /></a></p>
