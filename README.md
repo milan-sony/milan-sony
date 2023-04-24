@@ -14,7 +14,7 @@
 
 <h4 align="left">Connect with me</h4>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/milan-sony-94b977261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milan-sony-94b977261" height="25" width="25" /></a>&nbsp &nbsp
+  <a href="https://www.linkedin.com/in/milan-sony-94b977261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milan-sony-94b977261" height="25" width="25" /></a>&nbsp &nbsp
   <a href="https://twitter.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_" height="25" width="25" /></a>&nbsp &nbsp
   <a href="https://fb.com/milansonyms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milansonyms" height="25" width="25" /></a>&nbsp &nbsp
   <a href="https://instagram.com/milansony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milansony_" height="25" width="25" /></a>&nbsp &nbsp
