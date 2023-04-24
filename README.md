@@ -42,11 +42,10 @@
 <h4 align="left">GitHub Analytics</h4>
 <p align="center">
   <a href="https://github.com/Abhishek-00">
-    <img align="" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-sony&show_icons=true&locale=en&layout=compact"          alt="milan-sony" />
-    <img align="" height="160em" src="https://github-readme-stats.vercel.app/api?username=milan-sony&show_icons=true&locale=en" alt="milan-sony" />
+    <img align="" height="160em" src="https://github-readme-stats.vercel.app/api?username=milan-sony&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="milan-sony" />
+    <img align="" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-sony&layout=compact&langs_count=8&theme=dark"          alt="milan-sony" />
    </a>
 </p>
-
 <p align="center">
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sony&" alt="milan-sony" />
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sony&theme=dark&hide_border=false"" alt="milan-sony" />
 </p>
