@@ -97,7 +97,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 
-
 <h4 align="left">Another day, Another coffee</h4>
 <!-- <p>
   <a href="https://www.buymeacoffee.com/milansony">
