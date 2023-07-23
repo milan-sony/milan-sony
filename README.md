@@ -3,7 +3,7 @@
   <img src="https://visitcount.itsvg.in/api?id=milan-sony&icon=5&color=12" alt="milan-sony" />
 </p>
 
-<h1 align="center">Hello World👋 My name is Milan Sony</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=03C988&width=500&lines=Hello+World!+My+name+is+Milan+Sony" alt="Typing SVG" /></a></h1>
 
 🌏  I'm based in India
 
