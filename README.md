@@ -3,9 +3,11 @@
   <img src="https://visitcount.itsvg.in/api?id=milan-sony&icon=5&color=12" alt="milan-sony" />
 </p>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=03C988&width=500&lines=Hello+World!+My+name+is+Milan+Sony" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World" alt="Typing SVG" /></a></h1>
 
-🌏  I'm based in India
+🙋🏻‍♂️  My name is Milan Sony
+
+🌏  I'm Based in India
 
 🌱  Currently on a self taught journey to become a python developer 
 
@@ -19,7 +21,7 @@
 
 ⚡  Fun fact: I believe in UFO 🛸👽 
 
-<h4 align="left">🔗 Connect with me</h4>
+<h4 align="left">🔗 Stay connected with me @</h4>
 <!-- <p align="left">
   <a href="https://twitter.com/milansony_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_"
@@ -98,7 +100,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 
-<h4 align="left">☕ Another day, Another coffee</h4>
+<h4 align="left">☕ Wanna coffee?</h4>
 <!-- <p>
   <a href="https://www.buymeacoffee.com/milansony">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milansony" />
