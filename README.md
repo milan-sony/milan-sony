@@ -9,6 +9,8 @@
 
 🌱  Currently on a self taught journey to become a python developer 
 
+💡  Let's talk about <span><b>#webdesign, #webdevelopment, #python, #arduino and #IOT</b></span>
+
 👨🏻‍🎓  Graduated Bachelor of Computer Applications <a href = "https://www.shiksha.com/bca-bachelor-of-computer-applications-chp">(BCA)</a>
 
 📖  Pursuing Master of Computer Applications <a href = "https://www.cgc.edu.in/blog/master-of-computer-application-eligibility-syllabus-and-future-scope#:~:text=MCA%2C%20which%20expands%20to%20Master,you%20to%20a%20better%20future.">(MCA)</a>
@@ -17,7 +19,7 @@
 
 ⚡  Fun fact: I believe in UFO 🛸👽 
 
-<h4 align="left">Connect with me</h4>
+<h4 align="left">🔗 Connect with me</h4>
 <!-- <p align="left">
   <a href="https://twitter.com/milansony_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_"
@@ -43,7 +45,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/milansony_) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/milansonyms)
 
-<h4 align="left">Languages and Tools</h4>
+<h4 align="left">🧩 Languages and Tools</h4>
 <!-- <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28"/>
@@ -84,7 +86,6 @@
   </a>&nbsp
 </p> -->
 
-<!-- ### 💻 Tech Stack: -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -97,7 +98,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 
-<h4 align="left">Another day, Another coffee</h4>
+<h4 align="left">☕ Another day, Another coffee</h4>
 <!-- <p>
   <a href="https://www.buymeacoffee.com/milansony">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milansony" />
@@ -108,7 +109,7 @@
 
 <!-- <br><br> -->
 
-<h4 align="left">GitHub Analytics</h4>
+<h4 align="left">📊 GitHub Analytics</h4>
 <p align="center">
   <a href="https://github.com/milan-sony/milan-sony">
     <img align="" height="160em" 
