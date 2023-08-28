@@ -21,7 +21,7 @@
 
 ⚡  Fun fact: I believe in UFO 🛸👽 
 
-<h4 align="left">🔗 Stay connected with me @</h4>
+<h4 align="left">🔗 Stay connected with me</h4>
 <!-- <p align="left">
   <a href="https://twitter.com/milansony_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_"
