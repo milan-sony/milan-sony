@@ -1,6 +1,6 @@
 <p align="right">
 <!--   <img src="https://komarev.com/ghpvc/?username=milan-sony&label=Profile%20views&color=brightgreen&style=flat" alt="milan-sony"/> -->
-  <img src="https://visitcount.itsvg.in/api?id=milan-sony&icon=5&color=12" alt="milan-sony" />
+<!--   <img src="https://visitcount.itsvg.in/api?id=milan-sony&icon=5&color=12" alt="milan-sony" /> -->
 </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World" alt="Typing SVG" /></a></h1>
