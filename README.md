@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hello World 👋 I'm Milan Sony</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+<!-- <h3 align="center">Aspiring Developer</h3> -->
 
 🌏  I'm Based in India
 
