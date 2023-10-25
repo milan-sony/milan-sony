@@ -1,8 +1,3 @@
-<p align="right">
-<!--   <img src="https://komarev.com/ghpvc/?username=milan-sony&label=Profile%20views&color=brightgreen&style=flat" alt="milan-sony"/> -->
-<!--   <img src="https://visitcount.itsvg.in/api?id=milan-sony&icon=5&color=12" alt="milan-sony" /> -->
-</p>
-
 <h1 align="center">Hello World 👋 I'm Milan Sony</h1>
 
 🌏  I'm Based in India
@@ -20,28 +15,10 @@
 ⚡  Fun fact: I believe in UFO 🛸👽 
 
 <h4 align="left">🔗 Stay connected with me</h4>
-<!-- <p align="left">
-  <a href="https://twitter.com/milansony_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milansony_"
-         height="25" width="25" />
-  </a>&nbsp &nbsp
-  <a href="https://www.linkedin.com/in/milan-sony-94b977261" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="https://www.linkedin.com/in/milan-sony-94b977261" height="25" width="25" />
-  </a>&nbsp &nbsp
-  <a href="https://fb.com/milansonyms" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milansonyms"
-         height="25" width="25" />
-  </a>&nbsp &nbsp
-  <a href="https://instagram.com/milansony_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milansony_"
-         height="25" width="25" />
-  </a>&nbsp &nbsp
-</p>
- -->
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-sony-94b977261)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milansony_) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/931193799957426186) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/milansony_) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/milansonyms)
 
@@ -107,11 +84,6 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 
 <h4 align="left">☕ Wanna coffee?</h4>
-<!-- <p>
-  <a href="https://www.buymeacoffee.com/milansony">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milansony" />
-  </a>
-</p> -->
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/milansony) 
 
@@ -133,20 +105,3 @@
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=milan-sony&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=milan-sony&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=milan-sony&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<h4 align="left">GitHub Analytics</h4>
-<p align="center">
-  <a href="https://github.com/milan-sony/milan-sony">
-    <img align="" height="160em" 
-         src="https://github-readme-stats.vercel.app/api?username=milan-sony&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="milan-sony" />
-    <img align="" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-sony&layout=compact&langs_count=8&theme=dark"          alt="milan-sony" />
-   </a>
-</p>
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sony&theme=dark&hide_border=false"" alt="milan-sony" />
-</p> -->
