@@ -2,7 +2,7 @@
 
 🌏  I'm Based in India
 
-🌱  Currently on a self taught journey to become a python developer 
+🌱  Currently on a self taught journey to become a developer 
 
 💡  Let's talk about <span><b>#webdesign, #webdevelopment, #python, #arduino and #IOT</b></span>
 
