@@ -79,6 +79,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
@@ -93,15 +95,15 @@
 <p align="center">
   <a href="https://github.com/milan-sony/milan-sony">
     <img align="" height="160em" 
-         src="https://github-readme-stats.vercel.app/api?username=milan-sony&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
+         src="https://github-readme-stats.vercel.app/api?username=milan-sony&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
          alt="milan-sony"/>
     <img align="" height="160em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-sony&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sony&theme=dark&hide_border=true" 
          alt="milan-sony"/>
    </a>
 </p>
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sony&theme=dark&hide_border=true" alt="milan-sony" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-sony&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="milan-sony" />
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
