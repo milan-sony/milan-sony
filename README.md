@@ -12,7 +12,7 @@
 
 📫  You can contact me at <a href="mailto:milansonyofficial@gmail.com">milansonyofficial@gmail.com</a>
 
-⚡  Fun fact: I believe in UFO 🛸👽 
+⚡  Fun fact: When I'm not in front of a computer screen. I'm probabily sleeping 💤
 
 <h4 align="left">🔗 Stay connected with me</h4>
  
