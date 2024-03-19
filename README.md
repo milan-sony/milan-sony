@@ -4,7 +4,7 @@
 
 🌱  Currently on a self taught journey to become a full-stack developer 
 
-💡  Let's talk about <span><b>#webdesign, #webdevelopment, #python, #arduino and #IOT</b></span>
+💡  Let's talk about <span><b>#webdesign, #webdevelopment, #python, #node.js, #vue.js #arduino and #IOT</b></span>
 
 👨🏻‍🎓  Graduated Bachelor of Computer Applications <a href = "https://www.shiksha.com/bca-bachelor-of-computer-applications-chp">(BCA)</a>
 
