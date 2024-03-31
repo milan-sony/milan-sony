@@ -1,6 +1,6 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> मैं हूं मिलन !</h1>
 
-🌏  I'm based in India india 🇮🇳
+🌏  I'm based in India
 
 🌱  Currently on a self taught journey to become a full-stack developer 
 
