@@ -70,4 +70,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-sony&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="milan-sony" />
 </p>
 
-<p align="right">Made with <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="16" height="16"> Milan Sony</p>
+<p align="right">Made with <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="16" height="16"></p>
