@@ -71,3 +71,5 @@
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p align="right">Made with <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="16" height="16"> Milan Sony</p>
