@@ -1,4 +1,4 @@
-<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Milan Sony</h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Milan Sony</h1>
 
 🌏  I'm based in India
 
