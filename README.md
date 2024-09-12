@@ -6,9 +6,7 @@
 
 💡  Let's talk about <span><b>#webdesign, #webdevelopment, #python, #node.js, #vue.js #arduino and #IOT</b></span>
 
-👨🏻‍🎓  Graduated Bachelor of Computer Applications <a href = "https://www.shiksha.com/bca-bachelor-of-computer-applications-chp">(BCA)</a>
-
-📖  Pursuing Master of Computer Applications <a href = "https://www.cgc.edu.in/blog/master-of-computer-application-eligibility-syllabus-and-future-scope#:~:text=MCA%2C%20which%20expands%20to%20Master,you%20to%20a%20better%20future.">(MCA)</a>
+👨🏻‍🎓  Graduated Master of Computer Applications <a href = "https://www.cgc.edu.in/blog/master-of-computer-application-eligibility-syllabus-and-future-scope#:~:text=MCA%2C%20which%20expands%20to%20Master,you%20to%20a%20better%20future.">(MCA)</a>
 
 📫  You can contact me at <a href="mailto:milansonyofficial@gmail.com">milansonyofficial@gmail.com</a>
 
