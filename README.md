@@ -1,16 +1,6 @@
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Milan Sony</h1>
 
-🌏  I'm based in India
-
-🌱  Currently on a self taught journey to become a full-stack developer 
-
-💡  Let's talk about <span><b>#webdesign, #webdevelopment, #python, #node.js, #vue.js #arduino and #IOT</b></span>
-
-👨🏻‍🎓  Graduated Master of Computer Applications <a href = "https://www.cgc.edu.in/blog/master-of-computer-application-eligibility-syllabus-and-future-scope#:~:text=MCA%2C%20which%20expands%20to%20Master,you%20to%20a%20better%20future.">(MCA)</a>
-
-📫  You can contact me at <a href="mailto:milansonyofficial@gmail.com">milansonyofficial@gmail.com</a>
-
-⚡  Fun fact: When I'm not in front of a computer screen. I'm probabily sleeping 💤
+<p><b>A passionate and dedicated coder from India 🇮🇳, striving to excel as a full-stack developer while maintaining my well-being ✨. With a strong academic foundation in computer applications and a love for web design, web development, Python, Node.js, Vue.js, Arduino, and IoT, I'm excited to connect with like-minded individuals who share my enthusiasm 🥂. When I'm not immersed in coding, I recharge with sleep 💤, ready to tackle new challenges 💪🏻. Feel free to reach out to me at <a href="mailto:milansonyofficial@gmail.com">milansonyofficial@gmail.com</a> to discuss my coding journey, offer guidance, or simply show support 😄.</b></p>
 
 <h4 align="left">🔗 Stay connected with me</h4>
  
