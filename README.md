@@ -1,6 +1,6 @@
 <h1 align="left">Hello World <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> I'm Milan Sony</h1>
 
-<p><b>A self-taught developer from India 🇮🇳. I'm working on becoming the best developer I can be by maintaining a healthy work-life balance ✨. With a strong academic foundation in computer applications and a love for <i>web design</i>, <i>web development</i>, and <i>IoT</i> 🚀, I'm excited to connect with like-minded folks 🥂. Feel free to reach out to me at <a href="mailto:milansonyofficial@gmail.com">milansonyofficial@gmail.com</a> to discuss coding 💻, get guidance 📚, chat 😄, or just grab a virtual coffee ☕ Haha 😂</b></p>
+<p><b>A self-taught developer from India 🇮🇳. I'm working on becoming the best developer I can be by maintaining a healthy work-life balance ✨. With a strong academic foundation in computer applications and a love for <i>web design</i>, <i>web development</i>, and <i>IoT</i> 🚀, I'm excited to connect with like-minded folks 🥂. Feel free to reach out to me at <a href="mailto:milansonyofficial@gmail.com">milansonyofficial@gmail.com</a> to discuss coding 💻, get guidance 📚, chat 😄, or just grab a virtual coffee ☕ Hahaha... 😂</b></p>
 
 <h4 align="left">🔗 Stay connected with me</h4>
  
